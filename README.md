@@ -5,7 +5,7 @@
 
  <div align="center">
  <div>
-<a href="https://github.com/YuriCast">
+<a href="https://github.com/valentinakgc">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCast&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriCast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
@@ -22,7 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;-->
    </div>
 </div>
 
